@@ -6,7 +6,7 @@
     "name": "Ryan X Charles",
     "email": "ryan@bitpay.com"
   },
-  "repository": "git://github.com/bitpay/insight-api.git",
+  "repository": "https://github.com/cannabiscoin420/insight-api.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -27,12 +27,16 @@
     {
       "name": "Juan Ignacio Sosa Lopez",
       "email": "bechilandia@gmail.com"
+    },
+    {
+      "name": "Peter Bushnell",
+      "email": "peter.bushnell@feathercoin.com"
     }
   ],
   "bugs": {
     "url": "https://github.com/bitpay/insight-api/issues"
   },
-  "homepage": "https://github.com/bitpay/insight-api",
+  "homepage": "https://github.com/cannabiscoin420/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -54,7 +58,7 @@
     "async": "*",
     "base58-native": "0.1.2",
     "bignum": "*",
-    "bitcore": "git://github.com/bitpay/bitcore.git#aa41c70cff2583d810664c073a324376c39c8b36",
+    "bitcore": "git://github.com/cannabiscoin420/bitcore.git",
     "bufferput": "git://github.com/bitpay/node-bufferput.git",
     "buffertools": "*",
     "commander": "^2.3.0",
